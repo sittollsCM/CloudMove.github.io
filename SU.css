@@ -75,13 +75,13 @@ h2 {
 	color:#152CD3
 }
 .button1:hover {
-	transition:0.5s all;
+	transition:0.8s all;
 	color:#fff;
 	background-color:#152CD3;
 	border-color:#152CD3;
 }
 .button2:hover {
-	transition:0.5s all;
+	transition:0.8s all;
 	color:#fff;
 	background-color:#152CD3;
 	border-color:#152CD3;
