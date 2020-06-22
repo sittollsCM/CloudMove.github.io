@@ -68,12 +68,6 @@ h2 {
 	padding-left:30px;
 	padding-right:30px;
 }
-.space {
-	color:#fff;
-}
-.space:hover {
-	color:#152CD3
-}
 .button1:hover {
 	transition:0.8s all;
 	color:#fff;
